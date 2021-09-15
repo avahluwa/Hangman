@@ -49,7 +49,6 @@ namespace Hangman
 
         public string GetGuesses()
         {
-            
             return guesses.ToString();
         }
 

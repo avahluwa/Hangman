@@ -57,7 +57,7 @@ namespace Hangman
             
             if(correct)
             {
-                playerInterface.Tell($"Your guess {guess} are correct!");
+                playerInterface.Tell($"Your guess {guess} is correct!");
             }
             else
             {
@@ -96,7 +96,7 @@ namespace Hangman
         }
         private void Loss()
         {
-            playerInterface.Tell("You haave no lives.  Run the program again to play again.");
+            playerInterface.Tell("You have no lives.  Run the program again to play again.");
         }
     }
 }
