@@ -21,8 +21,6 @@ namespace Hangman
 
         public string GetWord()
         {
-            // See example
-            // Returns a random work from the above list
             var random = new Random();
             var index = random.Next(words.Count);
 

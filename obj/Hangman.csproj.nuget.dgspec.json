@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avahluwa\\Documents\\project-hangman-hint\\hangman\\Hangman\\Hangman.csproj": {}
+    "C:\\Users\\avahluwa\\Documents\\NewHangman\\Hangman\\Hangman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avahluwa\\Documents\\project-hangman-hint\\hangman\\Hangman\\Hangman.csproj": {
+    "C:\\Users\\avahluwa\\Documents\\NewHangman\\Hangman\\Hangman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avahluwa\\Documents\\project-hangman-hint\\hangman\\Hangman\\Hangman.csproj",
+        "projectUniqueName": "C:\\Users\\avahluwa\\Documents\\NewHangman\\Hangman\\Hangman.csproj",
         "projectName": "Hangman",
-        "projectPath": "C:\\Users\\avahluwa\\Documents\\project-hangman-hint\\hangman\\Hangman\\Hangman.csproj",
+        "projectPath": "C:\\Users\\avahluwa\\Documents\\NewHangman\\Hangman\\Hangman.csproj",
         "packagesPath": "C:\\Users\\avahluwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avahluwa\\Documents\\project-hangman-hint\\hangman\\Hangman\\obj\\",
+        "outputPath": "C:\\Users\\avahluwa\\Documents\\NewHangman\\Hangman\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avahluwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
