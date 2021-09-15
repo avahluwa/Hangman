@@ -94,7 +94,6 @@ namespace Hangman
         {
             playerInterface.Tell("You WON!!!  Run the program again to play again.");
         }
-
         private void Loss()
         {
             playerInterface.Tell("You haave no lives.  Run the program again to play again.");
