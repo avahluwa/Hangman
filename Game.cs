@@ -49,7 +49,13 @@ namespace Hangman
 
         public string GetGuesses()
         {
-            return guesses.ToString();
+            var builder = new StringBuilder();
+            foreach (var let in guesses)
+            {
+                builder.Append(let);
+            }
+
+            return builder.ToString().Trim();
         }
 
         public string GetAnswerStringToDisplayToUsers()
