@@ -18,35 +18,26 @@ namespace Hangman
             this.answer = answer;
             this.lives = lives;
         }
-
         public int GetLives()
         {
-           
             return lives;
         }
-
         public void LoseLife()
         {
-           
             lives--;
         }
-
         public bool CheckIfNoLives()
         {
             return lives < 1;
         }
-
         public int GetAnswerLength()
         {
             return answer.Length;
-
         }
-
         public void AddGuess(char guess)
         {
             guesses.Add(guess);
         }
-
         public string GetGuesses()
         {
             var builder = new StringBuilder();
